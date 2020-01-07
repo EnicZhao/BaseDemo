@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="app_theme_color">#4670FA</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#f3f4f5</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_gray_color">#f4f5f6</color>
+    <color name="recycler_background_gray_color">#f4f5f6</color>
+    <color name="loading_progress_color">#858585</color>
+</resources>
